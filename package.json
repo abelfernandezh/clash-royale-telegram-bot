@@ -16,7 +16,7 @@
   "author": "amendezm",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.5.0",
+    "node-fetch": "^2.6.7",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
