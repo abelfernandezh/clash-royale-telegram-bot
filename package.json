@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.5.0",
-    "node-telegram-bot-api": "^0.30.0"
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
